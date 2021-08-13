@@ -1,0 +1,4 @@
+venv/*
+.DS_Strore/*
+__pycache__/*
+*.pyc
